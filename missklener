@@ -17,7 +17,7 @@
   </style>
 </head>
 <body>
-  <h1>¡Hola, mundo!</h1>
-  <p>Esta es mi primera página web publicada con GitHub y Netlify.</p>
+  <h1>¡Hola mundo!</h1>
+  <p>Esta es mi primera página web publicada con GitHub Pages y Netlify.</p>
 </body>
 </html>
